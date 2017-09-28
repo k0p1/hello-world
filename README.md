@@ -1,2 +1,17 @@
 # hello-world
-{ cout>>A"AS"}
+
+#include <iostream>
+  
+  int main( )
+  {
+   cout<<"Hello  World!")
+   
+   return 0;
+   }
+
+#include <iostream>
+  int main()
+  {
+  cout<<"Hello World!";
+  return 0;
+  }
